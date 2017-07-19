@@ -1,0 +1,9 @@
+C:\Users\Painkiller\Documents\Visual Studio 2017\Projects\LandonApi\LandonApi\bin\Debug\netcoreapp1.1\LandonApi.deps.json
+C:\Users\Painkiller\Documents\Visual Studio 2017\Projects\LandonApi\LandonApi\bin\Debug\netcoreapp1.1\LandonApi.runtimeconfig.json
+C:\Users\Painkiller\Documents\Visual Studio 2017\Projects\LandonApi\LandonApi\bin\Debug\netcoreapp1.1\LandonApi.runtimeconfig.dev.json
+C:\Users\Painkiller\Documents\Visual Studio 2017\Projects\LandonApi\LandonApi\bin\Debug\netcoreapp1.1\LandonApi.dll
+C:\Users\Painkiller\Documents\Visual Studio 2017\Projects\LandonApi\LandonApi\bin\Debug\netcoreapp1.1\LandonApi.pdb
+C:\Users\Painkiller\Documents\Visual Studio 2017\Projects\LandonApi\LandonApi\obj\Debug\netcoreapp1.1\LandonApi.csprojResolveAssemblyReference.cache
+C:\Users\Painkiller\Documents\Visual Studio 2017\Projects\LandonApi\LandonApi\obj\Debug\netcoreapp1.1\LandonApi.AssemblyInfo.cs
+C:\Users\Painkiller\Documents\Visual Studio 2017\Projects\LandonApi\LandonApi\obj\Debug\netcoreapp1.1\LandonApi.dll
+C:\Users\Painkiller\Documents\Visual Studio 2017\Projects\LandonApi\LandonApi\obj\Debug\netcoreapp1.1\LandonApi.pdb
